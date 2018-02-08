@@ -1,0 +1,65 @@
+html,body {
+    height:100%;
+}
+
+body {
+    padding-top: 60px;
+}
+
+#wrapper{
+    min-height: 100%;
+    position: relative;
+}
+
+.body-section {
+    padding-bottom: 
+}
+
+.huge {
+    font-size: 40px;
+}
+
+.tag-boxes .panel-primary {
+    color: white;
+    background-color: #2196F3;
+    border: 1px solid #375A7F;
+    white-space: nowrap;
+}
+
+.tag-boxes .panel-red{
+    color:white;
+    background-color: #F44336;
+    border: 1px solid #375A7F;
+    white-space: nowrap;
+}
+
+.tag-boxes .panel-green{
+    color:white;
+    background-color: #009688;
+    border: 1px solid #375A7F;
+    white-space: nowrap;
+}
+
+.tag-boxes .panel-purple{
+    color:white;
+    background-color: #9C27B0;
+    border: 1px solid #375A7F;
+    white-space: nowrap;
+}
+
+footer{
+    background: darkslategrey;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+    letter-spacing: 1px;
+}
+
+footer a {
+    color: red;
+
+}
+
+footer a:hover {
+    color: blueviolet; 
+}
